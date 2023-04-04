@@ -32,7 +32,7 @@ main{
 }
 
 /*inizio prima parte*/
-.bottoni{
+#bottoni{
     padding: 20px;
 }
 
@@ -61,4 +61,15 @@ hr{
 }
 
 /*fine prima parte*/
+
+/*inizio seconda parte*/
+#new-task{
+    padding: 50px;
+}
+
+.senza-stile{
+    list-style: none;
+    
+}
+/*fine seconda parte*/
 /*fine main*/
