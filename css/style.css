@@ -2,19 +2,63 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: lightgray;
 }
 
 /*inizio header*/
-header{
-    padding: 20px;
+.sfondo-bianco{
+    background-color: white;
 }
+
 #logo{
     vertical-align: middle;
+    padding: 20px 0 20px 20px;
 }
 #titolo{
     display: inline;
     font-size: 50px;
     vertical-align: middle;
-    font-family: sans-serif;
 }
 /*fine header*/
+
+/*inizio main*/
+main{
+    margin: 50px 200px;
+    background-color: white;
+}
+
+/*inizio prima parte*/
+.bottoni{
+    padding: 20px;
+}
+
+#task{
+    background-color: lightblue;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 50px;
+    color: white;
+}
+
+#section{
+    border: 1px solid lightgray;
+    padding: 5px;
+    border-radius: 5px;
+    color: lightgrey;
+}
+
+#linea{
+    margin-top: 10px;
+    padding: 0;
+}
+
+hr{
+    border: solid lightgray 1px;
+}
+
+/*fine prima parte*/
+/*fine main*/
