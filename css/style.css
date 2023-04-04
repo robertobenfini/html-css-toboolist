@@ -29,6 +29,7 @@ body{
 main{
     margin: 50px 200px;
     background-color: white;
+    border-radius: 5px;
 }
 
 /*inizio prima parte*/
@@ -51,10 +52,6 @@ main{
     color: lightgrey;
 }
 
-#linea{
-    margin-top: 10px;
-    padding: 0;
-}
 
 hr{
     border: solid lightgray 1px;
@@ -67,6 +64,7 @@ hr{
     padding-top: 40px;
     padding-left: 40px;
     padding-right: 40px;
+    font-weight: 400;
 }
 
 .senza-stile{
@@ -139,6 +137,10 @@ hr{
     padding: 5px;
     color: white;
     border-radius: 8px;
+}
+
+#quarto-titolo{
+    padding-bottom: 50px;
 }
 
 /*fine quarta parte*/
