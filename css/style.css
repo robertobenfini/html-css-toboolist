@@ -123,4 +123,23 @@ hr{
     border-radius: 8px;
 }
 /*fine seconda parte*/
+
+/*inizio quarta parte*/
+.website{
+    background-color: plum;
+    font-size: 10px;
+    padding: 5px;
+    color: white;
+    border-radius: 8px;
+}
+
+.sales{
+    background-color: lightgreen;
+    font-size: 10px;
+    padding: 5px;
+    color: white;
+    border-radius: 8px;
+}
+
+/*fine quarta parte*/
 /*fine main*/
