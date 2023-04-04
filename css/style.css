@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/*inizio header*/
+header{
+    padding: 20px;
+}
+#logo{
+    vertical-align: middle;
+}
+#titolo{
+    display: inline;
+    font-size: 50px;
+    vertical-align: middle;
+    font-family: sans-serif;
+}
+/*fine header*/
