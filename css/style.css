@@ -45,6 +45,11 @@ main{
     color: white;
 }
 
+#task{
+    background-color: lightblue;
+   
+}
+
 #section{
     border: 1px solid lightgray;
     padding: 5px;
@@ -82,20 +87,20 @@ hr{
     padding: 1px 3px;
 }
 
-.editorial{
-    background-color: rgb(71, 186, 225);
+.button{
     font-size: 10px;
     padding: 5px;
     color: white;
     border-radius: 8px;
 }
 
+.editorial{
+    background-color: rgb(71, 186, 225);
+    
+}
+
 .q1-goals{
     background-color: rgb(116, 1, 158);
-    font-size: 10px;
-    padding: 5px;
-    color: white;
-    border-radius: 8px;
 }
 
 .cross{
@@ -107,36 +112,20 @@ hr{
 
 .recruiting{
     background-color: green;
-    font-size: 10px;
-    padding: 5px;
-    color: white;
-    border-radius: 8px;
 }
 
 .mobile{
     background-color: orange;
-    font-size: 10px;
-    padding: 5px;
-    color: white;
-    border-radius: 8px;
 }
 /*fine seconda parte*/
 
 /*inizio quarta parte*/
 .website{
     background-color: plum;
-    font-size: 10px;
-    padding: 5px;
-    color: white;
-    border-radius: 8px;
 }
 
 .sales{
     background-color: lightgreen;
-    font-size: 10px;
-    padding: 5px;
-    color: white;
-    border-radius: 8px;
 }
 
 #quarto-titolo{
